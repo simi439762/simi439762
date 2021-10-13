@@ -2,7 +2,7 @@
 - 👀 I’m interested in PC Games
 - 🌱 I’m not currently learning 
 - 💞️ I’m not looking to collaborate
-- 📫 How to reach me ...Discord:simi439762#5775,Twitter:simi_Numakappa#5775
+- 📫 How to reach me ...Discord:simi439762#5775,Twitter:simi_Numakappa
 
 <!---
 simi439762/simi439762 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
